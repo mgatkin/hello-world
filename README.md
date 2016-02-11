@@ -1,2 +1,3 @@
 # hello-world
-Just another repository...or is it?!?
+
+This is a test of the git hub version control system.
